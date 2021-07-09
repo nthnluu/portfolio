@@ -1,0 +1,88 @@
+[
+    {
+        "title":"Languages",
+        "items":[
+            "Javascript",
+            "Typescript",
+            "Python",
+            "Swift",
+            "HTML",
+            "CSS",
+            "SCSS",
+            "Pyret",
+            "Racket",
+            "Java",
+            "Scala",
+            "C#"
+        ]
+    },
+    {
+        "title":"Front-End",
+        "items":[
+            "React",
+            "Next.js",
+            "Vue",
+            "SwiftUI",
+            "UI Kit",
+            "Storyboards",
+            "React Native",
+            "jQuery",
+            "Tailwind CSS"
+        ]
+    },
+    {
+        "title":"Back-End",
+        "items":[
+            "Database Architecture",
+            "Django",
+            "FastAPI",
+            "Flask",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Cloud Firestore",
+            "CoreData",
+            "Realm",
+            "GraphQL",
+            "REST",
+            "OAuth 2.0",
+            "JWT Authentication"
+        ]
+    },
+    {
+        "title":"Dev-Ops/Cloud Services",
+        "items":[
+            "AWS S3",
+            "Heroku",
+            "AWS Lambda",
+            "AWS EC2",
+            "AWS CloudFormation",
+            "Docker",
+            "Google Identity Platform",
+            "Google Cloud Functions",
+            "Google Cloud Storage",
+            "Firebase"
+        ]
+    },
+    {
+        "title":"Other Tools and Services",
+        "items":[
+            "Pandas",
+            "Git",
+            "Wordpress",
+            "Jupyter Notebook",
+            "Linux/UNIX",
+            "Figma",
+            "Adobe XD",
+            "Photoshop",
+            "Illustrator",
+            "Adobe XD",
+            "After Effects",
+            "Premier Pro",
+            "Lottie Web",
+            "Selenium",
+            "Sequelize",
+            "Unity 3D"
+        ]
+    }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "title":"Sheetroom",
+    "description":"Assessment platform with a drag-and-drop quiz builder, embeddable graphs and formulas, and a customizable scoring algorithm",
+    "image":"project_images/sheetroom.jpg",
+    "href":"https://www.sheetroom.com",
+    "stack": [
+      "Typescript",
+      "React",
+      "Tailwind CSS",
+      "Postgres",
+      "GraphQL",
+      "AWS Lambda",
+      "AWS S3",
+      "JWT Authentication",
+      "OAuth 2.0"
+    ]
+  },
+  {
+    "title":"Nelson Bot",
+    "description":"Serverless Python bot for automatically reserving your preferred time slots at the Brown Nelson Fitness Center",
+    "image":"project_images/nelsonbot.jpg",
+    "href":"https://github.com/nthnluu/nelsonbot",
+    "stack": [
+      "Python",
+      "Selenium",
+      "Docker",
+      "AWS Lambda"
+    ]
+  },
+  {
+    "title":"Venture at Brown",
+    "description":"Interactive guide to the entrepreneurial resources available to Brown and RISD students on College Hill",
+    "image":"project_images/ventureatbrown.jpg",
+    "href":"https://ventureatbrown.com/",
+    "stack": [
+      "Javascript",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "title":"RathDB",
+    "description":"Blockchain storage system to serve as a block database for a cryptocurrency",
+    "image":"project_images/rathdb.jpg",
+    "href":"https://ventureatbrown.com/",
+    "stack": [
+      "C++",
+      "Protobuf",
+      "GoogleTest",
+      "CMake"
+    ]
+  },
+  {
+    "title":"Is it GG?",
+    "description":"Logistic regression machine learning model for predicting whether you won or lost a League game based on your current in-game stats",
+    "image":"project_images/isitgg.jpg",
+    "href":"https://github.com/nthnluu/is-it-gg",
+    "stack": [
+      "Python",
+      "Pandas",
+      "Numpy",
+      "Scikit Learn",
+      "Jupyter Notebook"
+    ]
+  },
+  {
+    "title":"Mixtape",
+    "description":"Discover new music and quickly create new Spotify playlists with songs you love through a Tinder-like interface",
+    "image":"project_images/mixtape.jpg",
+    "href":"https://mixtape.nthnluu.vercel.app",
+    "stack": [
+      "Typescript",
+      "Python",
+      "React",
+      "FastAPI",
+      "Material UI"
+    ]
+  }
+]

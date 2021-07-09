@@ -1,0 +1,38 @@
+[
+  {
+    "title":"Cloud Platform STEP Intern",
+    "company":"Google",
+    "location":"Mountain View, CA",
+    "start":"May 2021",
+    "end":"Present",
+    "description":"",
+    "image":"/experience_images/google.png"
+  },
+  {
+    "title":"Product Manager",
+    "company":"Full Stack at Brown",
+    "location":"Providence, RI",
+    "start":"Oct 2020",
+    "end":"Present",
+    "description":"I serve as a point of contact for client communication, manage engineering teams, and oversee project direction for various full-stack web and mobile projects, including TA Hours Anywhere and Loneliness App.",
+    "image":"/experience_images/fsab.jpeg"
+  },
+  {
+    "title":"Full Stack Web Developer",
+    "company":"Brown Entrepreneurship Program",
+    "location":"Providence, RI",
+    "start":"Oct 2020",
+    "end":"Present",
+    "description":"I develop various web and mobile tools and resources for the Brown Entrepreneurship Program and the Brown entrepreneurial community at large. My most recent projects are Venture@Brown, an interactive guide that gives Brown and RISD a personalized list of entrepreneurial resources on College Hill.",
+    "image":"/experience_images/ep.png"
+  },
+  {
+    "title":"Student Worker",
+    "company":"County of San Diego",
+    "location":"San Diego, CA",
+    "start":"May 2019",
+    "end":"Nov 2020",
+    "description":"I helped optimize the paper and electronic document intake process to reduce postage costs, processing turn-around time, and errors in data entry. I also worked with child support participants in both English and Spanish, processed and updated confidential information in California child support database, maintained intranet resources, conducted routine computer troubleshooting tasks, and helped manage users in Microsoft 365 Enterprise.",
+    "image":"/experience_images/sdc.png"
+  }
+]
