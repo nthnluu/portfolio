@@ -29,7 +29,7 @@ class MyDocument extends Document {
                     <meta
                         name="image"
                         property="og:image"
-                        content="/thumbnail.jpg"
+                        content="/preview_thumbnail.jpg"
                     />
                     <meta
                         name="author"
@@ -41,7 +41,7 @@ class MyDocument extends Document {
                     />
                     <meta
                         property="og:url"
-                        content="https://nthnluu.com"/>
+                        content="https://www.nathan-luu.com"/>
                 </Head>
                 <body>
                 <Main/>
