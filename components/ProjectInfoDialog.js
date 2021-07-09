@@ -1,6 +1,5 @@
 import {Dialog} from '@headlessui/react'
 import useDarkMode from "../util/useDarkMode";
-import SkillSection from "./SkillSection";
 
 export default function ProjectInfoDialog({isOpen, project = {}, onClose}) {
     const [darkMode] = useDarkMode();
@@ -13,9 +12,9 @@ export default function ProjectInfoDialog({isOpen, project = {}, onClose}) {
                 <div
                     className="bg-white dark:bg-gray-700 shadow-2xl rounded-lg max-w-xl mx-auto z-30 overflow-hidden w-full relative mx-4">
                     <button
-                        className="h-12 w-12 inline-flex justify-center items-center bg-gray-700 bg-opacity-10 rounded-full absolute top-2 right-2"
+                        className="h-12 w-12 inline-flex justify-center items-center bg-gray-700 bg-opacity-30 rounded-full absolute top-2 right-2"
                         onClick={onClose}>
-                        <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 text-gray-600" fill="none"
+                        <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 text-white" fill="none"
                              viewBox="0 0 24 24"
                              stroke="currentColor">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
