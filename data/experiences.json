@@ -5,7 +5,7 @@
     "location":"Mountain View, CA",
     "start":"May 2021",
     "end":"Present",
-    "description":"",
+    "description":"I worked on the Frontend Storage Engineering team to design and develop user interfaces using Angular for Storage products in Google Cloud Platform. I implemented and delivered the Redis idle connections feature within the Cloud Memorystore UI by adding the “timeout” configuration option to the Redis instance “create”, “edit”, and “view details” pages.",
     "image":"/experience_images/google.png"
   },
   {
@@ -14,7 +14,7 @@
     "location":"Providence, RI",
     "start":"Oct 2020",
     "end":"Present",
-    "description":"I serve as a point of contact for client communication, manage engineering teams, and oversee project direction for various full-stack web and mobile projects, including TA Hours Anywhere and Loneliness App.",
+    "description":"I serve as a point of contact between the club and clients. I help manage full-stack engineering teams for various web and mobile projects, including Muutual and the Brown CS Advising System, by hosting weekly standups, delegating tasks to members, and scheduling one-on-ones to unblock team members.",
     "image":"/experience_images/fsab.jpeg"
   },
   {
@@ -23,7 +23,7 @@
     "location":"Providence, RI",
     "start":"Oct 2020",
     "end":"Present",
-    "description":"I develop various web and mobile tools and resources for the Brown Entrepreneurship Program and the Brown entrepreneurial community at large. My most recent projects are Venture@Brown, an interactive guide that gives Brown and RISD a personalized list of entrepreneurial resources on College Hill.",
+    "description":"I develop various web and mobile tools and resources for the Brown Entrepreneurship Program and the Brown entrepreneurial community at large. My most recent project is Venture@Brown, an interactive guide that gives Brown and RISD a personalized list of entrepreneurial resources on College Hill.",
     "image":"/experience_images/ep.png"
   },
   {
@@ -32,7 +32,7 @@
     "location":"San Diego, CA",
     "start":"May 2019",
     "end":"Nov 2020",
-    "description":"I helped optimize the paper and electronic document intake process to reduce postage costs, processing turn-around time, and errors in data entry. I also worked with child support participants in both English and Spanish, processed and updated confidential information in California child support database, maintained intranet resources, conducted routine computer troubleshooting tasks, and helped manage users in Microsoft 365 Enterprise.",
+    "description":"I helped optimize the paper and electronic document intake process to reduce postage costs, processing turn-around time, and errors in data entry. I also worked with child support participants in both English and Spanish, processed and updated confidential information in California child support database, maintained intranet resources, helped deploy Microsoft Teams, conducted routine computer troubleshooting tasks, and helped manage Microsoft 365 licenses.",
     "image":"/experience_images/sdc.png"
   }
 ]

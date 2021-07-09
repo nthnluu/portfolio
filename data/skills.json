@@ -6,28 +6,27 @@
             "Typescript",
             "Python",
             "Swift",
-            "HTML",
-            "CSS",
-            "SCSS",
-            "Pyret",
-            "Racket",
             "Java",
             "Scala",
-            "C#"
+            "C++",
+            "GoLang",
+            "Pyret",
+            "Racket",
+            "HTML",
+            "CSS"
         ]
     },
     {
         "title":"Front-End",
         "items":[
+            "Angular",
             "React",
             "Next.js",
-            "Vue",
-            "SwiftUI",
-            "UI Kit",
-            "Storyboards",
             "React Native",
             "jQuery",
-            "Tailwind CSS"
+            "Tailwind CSS",
+            "Material UI",
+            "SASS"
         ]
     },
     {
@@ -40,9 +39,6 @@
             "Node.js",
             "Express",
             "MongoDB",
-            "Cloud Firestore",
-            "CoreData",
-            "Realm",
             "GraphQL",
             "REST",
             "OAuth 2.0",
@@ -50,17 +46,29 @@
         ]
     },
     {
-        "title":"Dev-Ops/Cloud Services",
+        "title":"iOS Development",
+        "items":[
+            "Swift UI",
+            "UI Kit",
+            "Storyboards",
+            "Core Data",
+            "CloudKit",
+            "App Store Connect",
+            "Realm"
+        ]
+    },
+    {
+        "title":"Dev-Ops",
         "items":[
             "AWS S3",
             "Heroku",
             "AWS Lambda",
-            "AWS EC2",
-            "AWS CloudFormation",
             "Docker",
-            "Google Identity Platform",
             "Google Cloud Functions",
-            "Google Cloud Storage",
+            "Google Cloud Memorystore",
+            "Google Kubernetes Engine",
+            "Google Cloud Filestore",
+            "Google Identity Platform",
             "Firebase"
         ]
     },
@@ -68,21 +76,20 @@
         "title":"Other Tools and Services",
         "items":[
             "Pandas",
+            "Numpy",
+            "PySpark",
+            "Scikit Learn",
+            "Statsmodels",
+            "spaCy",
             "Git",
             "Wordpress",
             "Jupyter Notebook",
-            "Linux/UNIX",
             "Figma",
-            "Adobe XD",
             "Photoshop",
             "Illustrator",
             "Adobe XD",
-            "After Effects",
             "Premier Pro",
-            "Lottie Web",
-            "Selenium",
-            "Sequelize",
-            "Unity 3D"
+            "Selenium"
         ]
     }
 ]
