@@ -1,30 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# My Portfolio
 
 ## Getting Started
+Install dependencies:
+```bash
+yarn install
+```
 
-First, run the development server:
+Then, run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Site data
 
-## Learn More
+Information on this site is statically rendered from the JSON files inside the `data` folder:
 
-To learn more about Next.js, take a look at the following resources:
+- `experiences.json` - list job exepriences in reverse chronological order (items at the front of the array are displayed first)
+    * **title** - the title of the position held
+    * **company** - the name of the company
+    * **location** - the location of the job
+    * **start** - the start date
+    * **end** - the end date
+    * **description** - a description of roles and responsibilities
+    * **image** - a URL to an image of the companies logo
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- `projects.json` - list of projects
+    * **title** - the title of the project
+    * **description** - a short summary of the project
+    * **image** - a URL to a cover image for the project
+    * **href** - a URL to the project's website or repo
+    * **stack** - an array of strings listing the technologies used
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- `skills.json` - an array of skill sections
+    * **title** - the title of the skill section
+    * **items** - an array of strings listing the skills under the current section
 
-## Deploy on Vercel
+## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The easiest way to deploy this site is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
