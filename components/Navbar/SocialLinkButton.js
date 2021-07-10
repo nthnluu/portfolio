@@ -1,5 +1,3 @@
-import socials from "../../data/socials.json";
-
 export default function SocialLinkButton({href, fontAwesomeClassname, name}) {
     return <a href={href}
               target="_blank"

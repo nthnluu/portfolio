@@ -33,18 +33,13 @@ export default function ProjectInfoDialog({isOpen, project = {}, onClose}) {
                         </Dialog.Description>
                         <div className="border-t mt-4 pt-4 dark:border-gray-600">
                             <div className="flex flex-wrap">
-
                                 {project.stack?.map(item => <span key={item}
                                                                   className="px-2 py-1 mr-1.5 mb-1.5 font-medium text-gray-700 dark:text-white dark:border-gray-500 text-xs border rounded-full">{item}</span>)}
                             </div>
-
                         </div>
-
                     </div>
-
                 </div>
             </div>
-
         </div>
     </Dialog>
 }
