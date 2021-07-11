@@ -27,8 +27,19 @@ export default function ProjectInfoDialog({isOpen, project = {}, onClose}) {
                     <img src={project.image} className="w-full h-64 sm:h-96 object-cover" alt=""/>
                     <div className="p-6">
                         <Dialog.Title
-                            className="text-xl font-bold text-gray-900 dark:text-white">{project.title}</Dialog.Title>
-                        <Dialog.Description className="font-medium text-gray-600 dark:text-gray-200">
+                            className="">
+                            <a className="text-xl font-bold text-gray-900 dark:text-white flex items-center
+                            hover:opacity-75 focus:underline transition-opacity duration-150"
+                               href={project.href} target="_blank">
+                                {project.title}
+                                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 ml-1" fill="none"
+                                     viewBox="0 0 24 24" stroke="currentColor">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
+                                          d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+                                </svg>
+                            </a>
+                        </Dialog.Title>
+                        <Dialog.Description className="text-gray-600 dark:text-gray-200 mt-2">
                             {project.description}
                         </Dialog.Description>
                         <div className="border-t mt-4 pt-4 dark:border-gray-600">
