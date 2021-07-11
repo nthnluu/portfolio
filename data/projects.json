@@ -40,7 +40,7 @@
   },
   {
     "title":"RathDB",
-    "description":"Blockchain storage system to serve as a block database for a cryptocurrency",
+    "description":"Optimized storage system to serve as a database for distributed blockchain applications, such as a cryptocurrency",
     "image":"project_images/rathdb.jpg",
     "href":"https://ventureatbrown.com/",
     "stack": [
