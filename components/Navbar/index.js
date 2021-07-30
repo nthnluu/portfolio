@@ -3,17 +3,23 @@ import SocialLinkButton from "./SocialLinkButton";
 import {useContext} from "react";
 import DarkModeContext from "../../util/dark_mode_context";
 import useDarkMode from "../../util/useDarkMode";
+import Link from "next/link";
+import {useRouter} from "next/router";
 
 const Navbar = () => {
+    const router = useRouter()
     const [darkMode, toggleDarkMode] = useDarkMode();
 
     return <div
-        className={`w-full ${darkMode ? "bg-gray-900" : "bg-white"} backdrop-filter backdrop-blur-lg bg-opacity-50`}>
+        className={`w-full ${darkMode ? "bg-gray-900" : "bg-white"} backdrop-filter dark:border-b border-gray-900 border-opacity-20 backdrop-blur-lg bg-opacity-50`}>
         <div className="py-3">
             <div className="mx-auto max-w-4xl flex justify-between items-center px-4">
                 <nav className="space-x-4">
-                    {/*<a className="text-black dark:text-white">Home</a>*/}
-                    {/*<a className="text-black dark:text-white">Blog</a>*/}
+                    {router.pathname !== "/" && <Link href="/">
+                        <a className="text-black dark:text-white text-lg md:text-xl font-semibold">
+                            Nathan Benavides-Luu
+                        </a>
+                    </Link>}
                 </nav>
 
                 <div className="space-x-1.5 flex items-center">

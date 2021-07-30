@@ -2,7 +2,7 @@ import Navbar from "./Navbar";
 
 const PageLayout = ({children}) => {
     return <div>
-        <div className="bg-white dark:bg-gray-900">
+        <div className="bg-white dark:bg-gray-900 min-h-screen">
             <header className="w-full fixed top-0 z-10">
                 <Navbar/>
             </header>

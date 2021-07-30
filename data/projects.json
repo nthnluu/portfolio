@@ -29,20 +29,10 @@
     ]
   },
   {
-    "title":"Venture at Brown",
-    "description":"Interactive guide to the entrepreneurial resources available to Brown and RISD students on College Hill",
-    "image":"project_images/ventureatbrown.jpg",
-    "href":"https://ventureatbrown.com/",
-    "stack": [
-      "Javascript",
-      "Tailwind CSS"
-    ]
-  },
-  {
     "title":"RathDB",
     "description":"Optimized storage system to serve as a database for distributed blockchain applications, such as a cryptocurrency",
     "image":"project_images/rathdb.jpg",
-    "href":"https://ventureatbrown.com/",
+    "href":"https://github.com/nthnluu/rathDB",
     "stack": [
       "C++",
       "Protobuf",
@@ -74,6 +64,40 @@
       "React",
       "FastAPI",
       "Material UI"
+    ]
+  },
+  {
+    "title":"Corporate Debt Rating Predictor",
+    "description":"Logistic regression model that predicts a company's debt rating based on financial report data",
+    "image":"project_images/corporatedeptpredictor.jpg",
+    "href":"https://colab.research.google.com/drive/1O7omfdR9nzbTEYGdlTmknoD83r4TSrOh?usp=sharing",
+    "stack": [
+      "Pandas",
+      "Python",
+      "Sklearn",
+      "Seaborn",
+      "Numpy"
+    ]
+  },
+  {
+    "title":"Venture at Brown",
+    "description":"Interactive guide to the entrepreneurial resources available to Brown and RISD students on College Hill",
+    "image":"project_images/ventureatbrown.jpg",
+    "href":"https://ventureatbrown.com/",
+    "stack": [
+      "Javascript",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "title":"BrunoCoin",
+    "description":"A proof-of-concept cryptocurrency miner and wallet written with GoLang. Based on the design described in the Bitcoin whitepaper.",
+    "image":"project_images/brunocoin.jpg",
+    "href":"https://github.com/nthnluu/BrunoCoin",
+    "stack": [
+      "GoLang",
+      "gRPC",
+      "uber-go/atomic"
     ]
   }
 ]
