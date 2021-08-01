@@ -14,7 +14,7 @@ export default function ProjectsGrid({projects}) {
                                                    shadow-lg border border-gray-100 dark:border-gray-800 overflow-hidden
                                                    hover:opacity-75 focus:ring-2 ring-blue-600 transition-opacity
                                                    focus:outline-none focus:shadow-xl duration-200">
-                <div className="flex-shrink-0">
+                <div className="flex-shrink-0 w-full">
                     <img className="h-56 w-full object-cover pointer-events-none"
                          src={project.image}
                          alt=""/>
