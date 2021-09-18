@@ -1,20 +1,28 @@
 [
   {
+    "title":"Incoming Technical Summer Analyst",
+    "company":"Goldman Sachs",
+    "location":"New York, NY",
+    "start":"September 2021",
+    "end":"Present",
+    "image":"/experience_images/gs.png"
+  },
+  {
     "title":"Cloud Platform STEP Intern",
     "company":"Google",
-    "location":"Mountain View, CA",
+    "location":"New York, NY",
     "start":"May 2021",
-    "end":"Present",
+    "end":"Aug 2021",
     "description":"I worked on the Frontend Engineering team and collaborated with the CoreInfra UX team to develop user interfaces for Storage products in Google Cloud Platform (Google Kubernetes Engine, Filestore, and Memorystore). I wrote modular, scalable, and well-tested Typescript code that utilizes the Angular framework to develop complex, data-driven user interfaces. I completed the entire development process for the Memorystore Redis Idle Connections feature, including writing design docs, implementation, bug hunt, and phased release to users.",
     "image":"/experience_images/google.png"
   },
   {
-    "title":"Product Manager",
+    "title":"Projects Director",
     "company":"Full Stack at Brown",
     "location":"Providence, RI",
     "start":"Oct 2020",
     "end":"Present",
-    "description":"I serve as a point of contact between the club and clients. I led the development of a React Native social network application for the University of Chicago RISC Innovation Lab. I hosted weekly stand ups and team member 1:1s to facilitate Agile development process, while also serving as the point of contact between the engineering team and the client.",
+    "description":"I coordinate 30+ project teams. I serve as a point of contact between the club and clients. I led the development of a React Native social network application for the University of Chicago RISC Innovation Lab. I hosted weekly stand ups and team member 1:1s to facilitate Agile development process, while also serving as the point of contact between the engineering team and the client.",
     "image":"/experience_images/fsab.jpeg"
   },
   {
