@@ -11,7 +11,7 @@ const Navbar = () => {
     const [darkMode, toggleDarkMode] = useDarkMode();
 
     return <div
-        className={`w-full ${darkMode ? "bg-gray-900" : "bg-white"} backdrop-filter dark:border-b border-gray-900 border-opacity-20 backdrop-blur-lg bg-opacity-50`}>
+        className={`w-full ${darkMode ? "bg-gray-900" : "bg-white"} backdrop-filter backdrop-blur-lg bg-opacity-50`}>
         <div className="py-3">
             <div className="mx-auto max-w-4xl flex justify-between items-center px-4">
                 <nav className="space-x-4">
