@@ -25,7 +25,7 @@ export default function Home() {
                     </div>
                 </h1>
                 <p className="max-w-4xl mt-5 text-lg md:text-xl text-gray-500 dark:text-gray-400">
-                    I'm a second year Applied Mathematics-Computer Science student at Brown University and an entrepreneurial full-stack
+                    I'm a sophmore studying Applied Mathematics-Computer Science at Brown University and an entrepreneurial full-stack
                     developer with a passion for building accessible and
                     useful tools for
                     education.
